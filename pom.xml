@@ -4,7 +4,6 @@
   <artifactId>myproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <finalName>myproject</finalName>
     <build>
         <plugins>
             <plugin>
