@@ -15,4 +15,5 @@
             </plugin>
         </plugins>
     </build>
+  <finalName>myproject</finalName>
 </project>
